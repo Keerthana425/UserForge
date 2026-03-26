@@ -46,6 +46,18 @@ user-management-api/
 ```
 http://localhost:3000
 ```
+# 🚀 UserForge API
+
+🌐 **Live API:** https://userforge.onrender.com  
+📂 **GitHub Repo:** https://github.com/Keerthana425/UserForge
+
+---
+
+## 🧪 Try it instantly
+
+GET all users:
+https://userforge.onrender.com/users
+
 
 ---
 
